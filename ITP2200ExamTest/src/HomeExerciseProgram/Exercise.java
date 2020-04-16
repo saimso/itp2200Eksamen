@@ -1,8 +1,8 @@
 package HomeExerciseProgram;
 
-public abstract class Exercise {
+ abstract class Exercise {
     public int intensity; // Thinking we can use a 1-10 scale for intensity where 10 is the highest
-    public int duration; //total minutues for whole exercise
+    public int duration; //total minutes for whole exercise
     public int repetitions; // Number of reps in each set
     public int sets; // Number of sets
 
